@@ -1,6 +1,6 @@
+# Rohit Krishnan's Data Portfolio
 
-<h1 align="center">Hi 👋, I'm Rohit Krishnan</h1>
-<h3 align="center">Welcome to my GitHub repository! I am a passionate data professional based in Chennai. This repository serves as a showcase of my skills, projects, and accomplishments in the field.</h3>
+Welcome to my GitHub repository! 👋 I am Rohit Krishnan, a passionate data professional based in Chennai. This repository serves as a showcase of my skills, projects, and accomplishments in the field.
 
 
 
