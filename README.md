@@ -1,6 +1,6 @@
 # Shivram Sriramulu's Data Portfolio
 
-Welcome to my GitHub repository! 👋 I am Shivram Sriramulu, a passionate data professional based in San Jose. This repository serves as a showcase of my skills, projects, and accomplishments in the field.
+Welcome to my GitHub repository! 👋 I am Rohit Krishnan, a passionate data professional based in Chennai. This repository serves as a showcase of my skills, projects, and accomplishments in the field.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -11,7 +11,7 @@ Welcome to my GitHub repository! 👋 I am Shivram Sriramulu, a passionate data 
 
 ## About Me
 
-I am a San Jose-based data enthusiast with a strong background in Data Analysis and Engineering. I love exploring and extracting meaningful insights from data, and I am skilled in Python, SQL, Spark, and R.
+I am a Chennai based data enthusiast with a strong background in Data Analysis and Engineering. I love exploring and extracting meaningful insights from data, and I am skilled in Python, SQL, Spark, and R.
 
 ## Skills
 
@@ -118,14 +118,14 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 
 - **Impact:** The project facilitates the automation of Spark jobs, including linear regression using MLlib, across different programming languages. It enhances data processing capabilities in a scalable and maintainable way.
 
-**GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/MLIB-Scala-Airflow_Spark)
+**GitHub Repository:** [Link to the GitHub repository]([https://github.com/ShivramSriramulu/MLIB-Scala-Airflow_Spark](https://github.com/rohitkrishnan24?tab=repositories))
 
 
 ## Education
 
-- **Master's in Data Analytics**
-  - **San Jose State University**
-  - **Year of Graduation: 2025**
+- **Bachelor's in Computer Science and Engineering**
+  - **Vellore Institute of Technology**
+  - **Year of Graduation: 2024**
   - **Relevant Coursework:**
     - Database Management Systems (DBMS)
     - Mathematics
@@ -136,7 +136,7 @@ I am a San Jose-based data enthusiast with a strong background in Data Analysis 
 
 Feel free to reach out to me! I am open to collaboration and eager to discuss data-related opportunities.
 
-- **Email:** [shivramsriamulu01@gmail.com](mailto:shivramsriamulu01@gmail.com)
-- **LinkedIn:** [Shivram Sriramulu](https://www.linkedin.com/in/shivram-sriramulu-86a9b1264/)
+- **Email:** [rohitkrishnan2002@gmail.com](mailto:rohitkrishnan2002@gmail.com)
+- **LinkedIn:** [Rohit Krishnan](https://www.linkedin.com/in/rohitkrishnan24/)
 
 Let's connect and explore the world of data together! 🚀
