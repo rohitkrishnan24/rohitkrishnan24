@@ -140,6 +140,11 @@ Feel free to reach out to me! I am open to collaboration and eager to discuss da
 
 - **Email:** [rohitkrishnan2002@gmail.com](mailto:rohitkrishnan2002@gmail.com)
 - **LinkedIn:** [Rohit Krishnan](https://www.linkedin.com/in/rohitkrishnan24/)
+- <p align="left">
+<a href="https://linkedin.com/in/rohitkrishnan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkrishnan24" height="30" width="40" /></a>
+<a href="https://kaggle.com/rohitkrishnan639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohitkrishnan639" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohit639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit639" height="30" width="40" /></a>
+</p>
 
 Let's connect and explore the world of data together! 🚀
 
