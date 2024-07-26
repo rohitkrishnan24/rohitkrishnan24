@@ -1,4 +1,4 @@
-# Shivram Sriramulu's Data Portfolio
+# Rohit Krishnan's Data Portfolio
 
 Welcome to my GitHub repository! 👋 I am Rohit Krishnan, a passionate data professional based in Chennai. This repository serves as a showcase of my skills, projects, and accomplishments in the field.
 
@@ -71,7 +71,7 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
   
 ## Projects
 
-### [Project 1: PySpark Coindesk API to MySQL ETL]
+### [Project 1: Curreny Detection System]
 
 - **Description:** This project demonstrates a PySpark script for fetching data from the Coindesk API and loading it into a MySQL database. The script utilizes PySpark to create a DataFrame from the API response and then writes the data to a MySQL table.
 
@@ -84,9 +84,9 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
 
 - **Impact:** The project provides a simple example of using PySpark for ETL purposes, enabling the extraction and loading of cryptocurrency data from the Coindesk API into a MySQL database.
 
-**GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/SPARK-ETL-API)
+**GitHub Repository:** [[Link to the GitHub repository](https://github.com/ShivramSriramulu/SPARK-ETL-API](https://github.com/rohitkrishnan24/Currency_Detection))
 
-### [Project 2: Data Engineering with PySpark and Airflow]
+### [Project 2: Violence and Weapon Detection System]
 
 - **Description:** This project focuses on building a robust data engineering pipeline leveraging PySpark and Apache Airflow. It encompasses data extraction, transformation, and loading (ETL) processes to enhance data processing efficiency and automate daily tasks. The dataset, comprising ride-sharing information, is processed and transformed using PySpark, with scheduled tasks managed by Apache Airflow.
 
@@ -102,9 +102,9 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
 
 **Dataset:** The dataset includes ride-sharing information with details such as ride_id, rideable_type, start and end timestamps, station information, geographical coordinates, and member type.
 
-**GitHub Repository:** [Link to the GitHub repository](https://github.com/ShivramSriramulu/Airflow-Spark)
+**GitHub Repository:** [Link to the GitHub repository]()
 
-### [Project 3: MLIB-Scala-Airflow_Spark]
+### [Project 3: ]
 
 - **Description:** This project orchestrates Spark jobs written in Python, Scala, and MLlib using Apache Airflow, all within a Dockerized environment. The DAG `sparking_flow` is designed to submit Spark jobs for linear regression using MLlib in Python and Scala, ensuring that data processing is handled efficiently and reliably on a daily schedule.
 
@@ -118,7 +118,7 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
 
 - **Impact:** The project facilitates the automation of Spark jobs, including linear regression using MLlib, across different programming languages. It enhances data processing capabilities in a scalable and maintainable way.
 
-**GitHub Repository:** [Link to the GitHub repository]([https://github.com/ShivramSriramulu/MLIB-Scala-Airflow_Spark](https://github.com/rohitkrishnan24?tab=repositories))
+**GitHub Repository:** [Link to the GitHub repository]([))
 
 
 ## Education
