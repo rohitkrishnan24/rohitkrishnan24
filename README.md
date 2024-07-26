@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Krishnan</h1>
 <h3 align="center">Welcome to my GitHub repository! I am a passionate data professional based in Chennai. This repository serves as a showcase of my skills, projects, and accomplishments in the field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkrishnan24&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkrishnan24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkrishnan24" alt="rohitkrishnan24" /></a> </p>
 
 ## Table of Contents
 - [About Me](#about-me)
