@@ -73,7 +73,7 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
   
 ## Projects
 
-### [Project 1: Curreny Detection System]
+### [Project 1: Identification and Classification of India Currency]
 
 - **Description:** This project demonstrates a PySpark script for fetching data from the Coindesk API and loading it into a MySQL database. The script utilizes PySpark to create a DataFrame from the API response and then writes the data to a MySQL table.
 
