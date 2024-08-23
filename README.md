@@ -73,18 +73,20 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
   
 ## Projects
 
-### [Project 1: Identification and Classification of India Currency]
+### [Project 1: IPL Data Analysis with PySpark ETL on Databricks and S3]
 
 - **Description:** This project demonstrates a PySpark script for fetching data from the Coindesk API and loading it into a MySQL database. The script utilizes PySpark to create a DataFrame from the API response and then writes the data to a MySQL table.
 
-- **Role:** Sole developer and maintainer.
+- **Role:** As the primary contributor, I played a pivotal role in designing, implementing, and maintaining the entire ETL pipeline. This involved optimizing PySpark transformations 
 
 - **Tools/Technologies:**
   - Apache Spark
   - MySQL
-  - Python
+  - PySpark
+  - Amazon S3 Bucket
+  - Databricks
 
-- **Impact:** The project provides a simple example of using PySpark for ETL purposes, enabling the extraction and loading of cryptocurrency data from the Coindesk API into a MySQL database.
+- **Impact:** The project provides a simple example of using PySpark for ETL purposes, enabling the extraction and loading.
 
 **GitHub Repository:** [[Link to the GitHub repository](https://github.com/ShivramSriramulu/SPARK-ETL-API](https://github.com/rohitkrishnan24/Currency_Detection))
 
