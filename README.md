@@ -120,8 +120,7 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
 
 - **Impact:** The project facilitates the automation of Spark jobs, including linear regression using MLlib, across different programming languages. It enhances data processing capabilities in a scalable and maintainable way.
 
-**GitHub Repository:** [[Link to the GitHub repository](https://github.com/rohitkrishnan24/MLIB-Scala-Airflow_Spark)]([))
-
+**GitHub Repository:** [Link to the GitHub repository](https://github.com/rohitkrishnan24/MLIB-Scala-Airflow_Spark)
 
 ## Education
 
