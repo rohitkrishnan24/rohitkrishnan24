@@ -106,7 +106,7 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
 
 **GitHub Repository:** [Link to the GitHub repository]()
 
-### [Project 3: ]
+### [Project 3: MLIB-Scala-Airflow_Spark ]
 
 - **Description:** This project orchestrates Spark jobs written in Python, Scala, and MLlib using Apache Airflow, all within a Dockerized environment. The DAG `sparking_flow` is designed to submit Spark jobs for linear regression using MLlib in Python and Scala, ensuring that data processing is handled efficiently and reliably on a daily schedule.
 
