@@ -88,7 +88,7 @@ I am a Chennai based data enthusiast with a strong background in Data Analysis a
 
 - **Impact:** The project provides a simple example of using PySpark for ETL purposes, enabling the extraction and loading.
 
-**GitHub Repository:** [Link to the GitHub repository]([https://github.com/rohitkrishnan24/MLIB-Scala-Airflow_Spark](https://github.com/rohitkrishnan24/pyspark))
+**GitHub Repository:** [Link to the GitHub repository]()
 ### [Project 2: Violence and Weapon Detection System]
 
 - **Description:** This project focuses on building a robust data engineering pipeline leveraging PySpark and Apache Airflow. It encompasses data extraction, transformation, and loading (ETL) processes to enhance data processing efficiency and automate daily tasks. The dataset, comprising ride-sharing information, is processed and transformed using PySpark, with scheduled tasks managed by Apache Airflow.
